@@ -1,3 +1,5 @@
 # team_pfizer
 
-## Help our dataset is larger than 1GB and even git LFS won't accept it 
+## Help I don't know how to add our large dataset to our github so here is the dropbox link:
+https://www.dropbox.com/s/xx3ixqgtfe3epzf/Pfizer_Turnover_Prediction_Model_version1.csv?dl=0
+
