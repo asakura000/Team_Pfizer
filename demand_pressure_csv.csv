@@ -1,0 +1,796 @@
+﻿Country,City,Mapped Location,Year,Manufacturing,Sales,R&D,Finance,Legal,HR,IT,Pharma Other
+Argentina,Buenos Aires,,2015,11.0%,11.3%,8.0%,9.9%,9.5%,10.2%,10.6%,9.0%
+Argentina,Buenos Aires,,2016,6.3%,6.5%,4.6%,5.7%,5.5%,5.9%,6.1%,5.2%
+Argentina,Buenos Aires,,2017,11.2%,11.5%,8.2%,10.1%,9.7%,10.4%,10.9%,9.2%
+Argentina,Buenos Aires,,2018,8.1%,8.3%,5.9%,7.3%,6.9%,7.5%,7.8%,6.6%
+Argentina,Buenos Aires,,2019,8.3%,8.4%,6.0%,7.5%,7.3%,7.4%,7.9%,6.5%
+Australia,Adelaide,,2015,8.4%,8.6%,6.1%,7.5%,7.2%,7.7%,8.1%,6.8%
+Australia,Adelaide,,2016,11.3%,11.6%,8.2%,10.2%,9.7%,10.4%,10.9%,9.2%
+Australia,Adelaide,,2017,10.7%,10.9%,7.8%,9.6%,9.2%,9.9%,10.3%,8.7%
+Australia,Adelaide,,2018,9.7%,9.9%,7.1%,8.7%,8.3%,9.0%,9.4%,7.9%
+Australia,Adelaide,,2019,10.6%,9.6%,7.5%,8.5%,8.0%,9.1%,9.5%,7.6%
+Australia,Albion,Brisbane,,,,,,,,,
+Australia,Belmont,Perth,,,,,,,,,
+Australia,Brisbane,,2015,11.9%,12.2%,8.7%,10.7%,10.2%,11.0%,11.5%,9.7%
+Australia,Brisbane,,2016,11.8%,12.1%,8.6%,10.6%,10.1%,10.9%,11.4%,9.6%
+Australia,Brisbane,,2017,11.3%,11.6%,8.2%,10.2%,9.7%,10.4%,10.9%,9.2%
+Australia,Brisbane,,2018,9.0%,9.2%,6.5%,8.1%,7.7%,8.3%,8.7%,7.3%
+Australia,Brisbane,,2019,9.8%,10.0%,6.4%,7.7%,7.8%,8.9%,9.3%,7.9%
+Australia,Export Park,Adelaide,,,,,,,,,
+Australia,Maitland Place,Newcastle,2015,12.3%,12.6%,8.9%,11.1%,10.5%,11.4%,11.9%,10.0%
+Australia,Maitland Place,Newcastle,2016,10.4%,10.7%,7.6%,9.4%,9.0%,9.7%,10.1%,8.5%
+Australia,Maitland Place,Newcastle,2017,12.3%,12.6%,8.9%,11.1%,10.5%,11.4%,11.9%,10.0%
+Australia,Maitland Place,Newcastle,2018,8.8%,9.1%,6.4%,8.0%,7.6%,8.2%,8.6%,7.2%
+Australia,Maitland Place,Newcastle,2019,8.6%,9.2%,6.5%,7.9%,7.7%,8.3%,8.7%,7.3%
+Australia,Melbourne,,2015,9.3%,9.6%,6.8%,8.4%,8.0%,8.6%,9.0%,7.6%
+Australia,Melbourne,,2016,10.7%,10.9%,7.8%,9.6%,9.2%,9.9%,10.3%,8.7%
+Australia,Melbourne,,2017,13.4%,13.7%,9.7%,12.0%,11.5%,12.4%,12.9%,10.9%
+Australia,Melbourne,,2018,9.5%,9.7%,6.9%,8.5%,8.1%,8.8%,9.1%,7.7%
+Australia,Melbourne,,2019,9.1%,10.4%,6.8%,8.9%,8.6%,9.4%,9.7%,8.0%
+Australia,Mulgrave,Melbourne,,,,,,,,,
+Australia,Murarrie,Brisbane,,,,,,,,,
+Australia,Parkville,Melbourne,,,,,,,,,
+Australia,Perth,,2015,9.5%,9.7%,6.9%,8.5%,8.1%,8.8%,9.1%,7.7%
+Australia,Perth,,2016,13.2%,13.6%,9.7%,11.9%,11.4%,12.3%,12.8%,10.8%
+Australia,Perth,,2017,13.7%,14.1%,10.0%,12.4%,11.8%,12.7%,13.3%,11.2%
+Australia,Perth,,2018,11.9%,12.2%,8.7%,10.7%,10.2%,11.0%,11.5%,9.7%
+Australia,Perth,,2019,12.4%,12.7%,8.8%,10.2%,9.8%,10.6%,12.1%,9.6%
+Australia,Sydney,,2015,13.4%,13.7%,9.7%,12.0%,11.5%,12.4%,12.9%,10.9%
+Australia,Sydney,,2016,10.3%,10.6%,7.5%,9.3%,8.9%,9.5%,10.0%,8.4%
+Australia,Sydney,,2017,8.5%,8.7%,6.2%,7.6%,7.3%,7.8%,8.2%,6.9%
+Australia,Sydney,,2018,11.6%,11.9%,8.5%,10.5%,10.0%,10.8%,11.3%,9.5%
+Australia,Sydney,,2019,12.7%,12.0%,8.3%,10.6%,9.5%,11.5%,11.4%,10.4%
+Australia,West Ryde,Sydney,,,,,,,,,
+Belgium,Antwerp,,2015,18.1%,18.5%,13.2%,16.3%,15.6%,16.8%,17.5%,14.8%
+Belgium,Antwerp,,2016,18.8%,19.3%,13.7%,17.0%,16.2%,17.4%,18.2%,15.4%
+Belgium,Antwerp,,2017,18.5%,18.9%,13.5%,16.6%,15.9%,17.1%,17.9%,15.1%
+Belgium,Antwerp,,2018,15.3%,15.7%,11.2%,13.8%,13.2%,14.2%,14.8%,12.5%
+Belgium,Antwerp,,2019,16.1%,16.7%,10.9%,14.6%,13.8%,14.5%,14.4%,12.4%
+Belgium,Brussels,,2015,15.3%,15.7%,11.2%,13.8%,13.2%,14.2%,14.8%,12.5%
+Belgium,Brussels,,2016,18.5%,18.9%,13.5%,16.6%,15.9%,17.1%,17.9%,15.1%
+Belgium,Brussels,,2017,17.6%,18.0%,12.8%,15.9%,15.2%,16.3%,17.0%,14.4%
+Belgium,Brussels,,2018,17.5%,17.9%,12.8%,15.8%,15.0%,16.2%,16.9%,14.3%
+Belgium,Brussels,,2019,19.1%,18.9%,13.9%,17.1%,15.2%,16.9%,17.0%,13.7%
+Belgium,Louvain,Brussels ,,,,,,,,,
+Belgium,Louvain La Neuve,Antwerp,,,,,,,,,
+Belgium,Puurs,Antwerp,,,,,,,,,
+Belgium,Zaventem,Brussels ,,,,,,,,,
+Brazil,Birmann ,Sao Paulo,,,,,,,,,
+Brazil,Campinas,,2015,11.2%,11.5%,8.2%,10.1%,9.7%,10.4%,10.9%,9.2%
+Brazil,Campinas,,2016,12.1%,12.4%,8.8%,10.9%,10.4%,11.2%,11.7%,9.9%
+Brazil,Campinas,,2017,14.5%,14.9%,10.6%,13.1%,12.5%,13.5%,14.1%,11.9%
+Brazil,Campinas,,2018,13.4%,13.8%,9.8%,12.1%,11.6%,12.4%,13.0%,11.0%
+Brazil,Campinas,,2019,13.3%,15.1%,10.3%,13.3%,11.4%,12.5%,13.4%,10.8%
+Brazil,Chapecó,,,,,,,,,,
+Brazil,Florianopolis,,2015,11.4%,11.6%,8.3%,10.2%,9.8%,10.5%,11.0%,9.3%
+Brazil,Florianopolis,,2016,9.4%,9.6%,6.9%,8.5%,8.1%,8.7%,9.1%,7.7%
+Brazil,Florianopolis,,2017,15.1%,15.5%,11.0%,13.6%,13.0%,14.0%,14.6%,12.4%
+Brazil,Florianopolis,,2018,12.3%,12.6%,9.0%,11.1%,10.6%,11.4%,11.9%,10.1%
+Brazil,Florianopolis,,2019,12.5%,13.1%,8.7%,12.2%,10.7%,12.1%,11.5%,10.8%
+Brazil,Goiania,,,,,,,,,,
+Brazil,Guarulhos,,,,,,,,,,
+Brazil,Itapevi,,,,,,,,,,
+Brazil,Porto Alegre,,2015,11.0%,11.3%,8.0%,9.9%,9.5%,10.2%,10.6%,9.0%
+Brazil,Porto Alegre,,2016,9.3%,9.5%,6.8%,8.4%,8.0%,8.6%,9.0%,7.6%
+Brazil,Porto Alegre,,2017,14.8%,15.1%,10.8%,13.3%,12.7%,13.7%,14.3%,12.1%
+Brazil,Porto Alegre,,2018,14.8%,15.1%,10.8%,13.3%,12.7%,13.7%,14.3%,12.1%
+Brazil,Porto Alegre,,2019,15.2%,16.4%,11.0%,13.1%,12.2%,14.8%,14.2%,11.5%
+Brazil,Rio de Janeiro,,2015,12.9%,13.3%,9.4%,11.7%,11.1%,12.0%,12.5%,10.6%
+Brazil,Rio de Janeiro,,2016,10.1%,10.4%,7.4%,9.1%,8.7%,9.4%,9.8%,8.3%
+Brazil,Rio de Janeiro,,2017,15.4%,15.8%,11.2%,13.9%,13.2%,14.2%,14.9%,12.6%
+Brazil,Rio de Janeiro,,2018,12.1%,12.4%,8.8%,10.9%,10.4%,11.2%,11.7%,9.9%
+Brazil,Rio de Janeiro,,2019,11.6%,12.7%,8.5%,10.5%,10.1%,11.3%,12.0%,10.0%
+Brazil,Sao Paulo,,2015,14.4%,14.8%,10.5%,13.0%,12.4%,13.3%,13.9%,11.8%
+Brazil,Sao Paulo,,2016,9.9%,10.1%,7.2%,8.9%,8.5%,9.2%,9.6%,8.1%
+Brazil,Sao Paulo,,2017,12.6%,12.9%,9.2%,11.3%,10.8%,11.6%,12.2%,10.3%
+Brazil,Sao Paulo,,2018,15.4%,15.8%,11.2%,13.9%,13.2%,14.2%,14.9%,12.6%
+Brazil,Sao Paulo,,2019,15.8%,16.7%,10.7%,14.2%,14.2%,15.6%,15.0%,13.3%
+Canada,Brandon,,,,,,,,,,
+Canada,Carberry,,,,,,,,,,
+Canada,Kirkland,,,,,,,,,,
+Canada,Mississauga,,2015,22.5%,23.1%,16.4%,20.3%,19.4%,20.9%,21.8%,18.5%
+Canada,Mississauga,,2016,23.5%,24.1%,17.2%,21.2%,20.2%,21.8%,22.7%,19.3%
+Canada,Mississauga,,2017,19.4%,19.8%,14.1%,17.5%,16.7%,17.9%,18.7%,15.9%
+Canada,Mississauga,,2018,24.7%,25.3%,18.0%,22.3%,21.3%,22.9%,23.9%,20.3%
+Canada,Mississauga,,2019,26.8%,25.7%,17.5%,24.5%,21.6%,24.1%,24.5%,20.7%
+Canada,Montreal,,2015,25.0%,25.6%,18.2%,22.5%,21.5%,23.1%,24.2%,20.5%
+Canada,Montreal,,2016,22.5%,23.1%,16.4%,20.3%,19.4%,20.9%,21.8%,18.5%
+Canada,Montreal,,2017,18.9%,19.3%,13.8%,17.0%,16.3%,17.5%,18.3%,15.5%
+Canada,Montreal,,2018,22.9%,23.5%,16.7%,20.7%,19.7%,21.2%,22.2%,18.8%
+Canada,Montreal,,2019,21.9%,24.4%,17.2%,20.0%,20.3%,20.2%,24.1%,20.6%
+Canada,Ottawa,,2015,21.6%,22.1%,15.7%,19.4%,18.6%,20.0%,20.9%,17.7%
+Canada,Ottawa,,2016,23.0%,23.6%,16.8%,20.8%,19.8%,21.3%,22.3%,18.9%
+Canada,Ottawa,,2017,23.2%,23.7%,16.9%,20.9%,19.9%,21.4%,22.4%,19.0%
+Canada,Ottawa,,2018,24.1%,24.7%,17.6%,21.8%,20.8%,22.3%,23.3%,19.8%
+Canada,Ottawa,,2019,26.0%,26.8%,17.7%,22.9%,20.4%,21.8%,23.4%,19.9%
+Canada,Saanichton,,,,,,,,,,
+China,Anhui,,,,,,,,,,
+China,Beijing,,2015,17.1%,17.5%,12.5%,15.4%,14.7%,15.8%,16.5%,14.0%
+China,Beijing,,2016,19.0%,19.5%,13.9%,17.2%,16.4%,17.6%,18.4%,15.6%
+China,Beijing,,2017,18.4%,18.9%,13.4%,16.6%,15.8%,17.1%,17.8%,15.1%
+China,Beijing,,2018,18.4%,18.9%,13.4%,16.6%,15.8%,17.1%,17.8%,15.1%
+China,Beijing,,2019,19.2%,19.0%,13.8%,16.0%,16.5%,16.9%,18.9%,15.8%
+China,Changsha,,,,,,,,,,
+China,Changzhou,,,,,,,,,,
+China,Chengdu,,,,,,,,,,
+China,Chongqing,,,,,,,,,,
+China,Dalian,,,,,,,,,,
+China,Dongguan,,,,,,,,,,
+China,Foshan,,,,,,,,,,
+China,Fujia,,,,,,,,,,
+China,Fuzhou,,,,,,,,,,
+China,Gansu,,,,,,,,,,
+China,Guangdong,,,,,,,,,,
+China,Guangxi,,,,,,,,,,
+China,Guangzhou,,2015,16.7%,17.1%,12.2%,15.1%,14.4%,15.5%,16.2%,13.7%
+China,Guangzhou,,2016,20.9%,21.4%,15.2%,18.8%,17.9%,19.3%,20.2%,17.1%
+China,Guangzhou,,2017,19.9%,20.4%,14.5%,17.9%,17.1%,18.4%,19.2%,16.3%
+China,Guangzhou,,2018,20.5%,21.0%,14.9%,18.5%,17.6%,19.0%,19.8%,16.8%
+China,Guangzhou,,2019,22.0%,21.3%,14.6%,18.6%,17.0%,19.6%,20.9%,17.2%
+China,Guizhou,,,,,,,,,,
+China,Haerbin,,,,,,,,,,
+China,Haikou,,,,,,,,,,
+China,Hainan,,,,,,,,,,
+China,Hangzhou,,,,,,,,,,
+China,Hebei,,,,,,,,,,
+China,Heilongjiang,,,,,,,,,,
+China,Henan,,,,,,,,,,
+China,Hubei,,,,,,,,,,
+China,Hunan,,,,,,,,,,
+China,Huzou,,,,,,,,,,
+China,Jiangmen,,,,,,,,,,
+China,Jiangsu,,,,,,,,,,
+China,Jiangxi,,,,,,,,,,
+China,Jiaxing,,,,,,,,,,
+China,Jilin,,,,,,,,,,
+China,Jinan,,,,,,,,,,
+China,Kunming,,,,,,,,,,
+China,Kunshan,,,,,,,,,,
+China,Liaoning,,,,,,,,,,
+China,Maoming,,,,,,,,,,
+China,Nanjing,,,,,,,,,,
+China,Neimenggu,,,,,,,,,,
+China,Ningbo,,,,,,,,,,
+China,Ningxia,,,,,,,,,,
+China,Qingdao,,,,,,,,,,
+China,Qinghai,,,,,,,,,,
+China,Shaanxi,,,,,,,,,,
+China,Shandong,,,,,,,,,,
+China,Shanghai,,2015,22.1%,22.6%,16.1%,19.9%,19.0%,20.4%,21.4%,18.1%
+China,Shanghai,,2016,18.2%,18.6%,13.3%,16.4%,15.6%,16.8%,17.6%,14.9%
+China,Shanghai,,2017,16.2%,16.6%,11.8%,14.6%,14.0%,15.0%,15.7%,13.3%
+China,Shanghai,,2018,22.3%,22.9%,16.3%,20.1%,19.2%,20.7%,21.6%,18.3%
+China,Shanghai,,2019,22.7%,22.4%,15.5%,21.3%,19.8%,20.6%,21.4%,19.3%
+China,Shantou,,,,,,,,,,
+China,Shanwei,,,,,,,,,,
+China,Shanxi,,,,,,,,,,
+China,Shaoxing,,,,,,,,,,
+China,Shenyang,,,,,,,,,,
+China,Shenzhen,,2015,20.1%,20.6%,14.7%,18.1%,17.3%,18.6%,19.5%,16.5%
+China,Shenzhen,,2016,19.9%,20.4%,14.5%,17.9%,17.1%,18.4%,19.2%,16.3%
+China,Shenzhen,,2017,21.7%,22.2%,15.8%,19.6%,18.7%,20.1%,21.0%,17.8%
+China,Shenzhen,,2018,22.3%,22.9%,16.3%,20.1%,19.2%,20.7%,21.6%,18.3%
+China,Shenzhen,,2019,21.3%,22.8%,15.6%,20.9%,19.6%,22.0%,22.9%,19.0%
+China,Shenzhou,,,,,,,,,,
+China,Shijiazhuang,,,,,,,,,,
+China,Shunde,,,,,,,,,,
+China,Sichuan,,,,,,,,,,
+China,Suzhou,,2015,20.1%,20.6%,14.7%,18.1%,17.3%,18.6%,19.5%,16.5%
+China,Suzhou,,2016,16.6%,17.0%,12.1%,15.0%,14.3%,15.4%,16.0%,13.6%
+China,Suzhou,,2017,20.7%,21.2%,15.1%,18.7%,17.8%,19.2%,20.1%,17.0%
+China,Suzhou,,2018,20.4%,20.9%,14.9%,18.4%,17.5%,18.9%,19.7%,16.7%
+China,Suzhou,,2019,21.4%,20.6%,16.3%,19.8%,17.4%,18.7%,20.0%,17.9%
+China,Tianjin,,,,,,,,,,
+China,Wenzhou,,,,,,,,,,
+China,Wuhan,,,,,,,,,,
+China,Wujiang,,,,,,,,,,
+China,Wulumuqi,,,,,,,,,,
+China,Wuxi,,,,,,,,,,
+China,Xiamen,,,,,,,,,,
+China,Xi'an,,,,,,,,,,
+China,Xinjiang,,,,,,,,,,
+China,Xizang,,,,,,,,,,
+China,Yantai,,,,,,,,,,
+China,Yunnan,,,,,,,,,,
+China,ZhangJiagang,,,,,,,,,,
+China,Zhaoqing,,,,,,,,,,
+China,Zhejiang,,,,,,,,,,
+China,Zhengzhou,,,,,,,,,,
+China,Zhongshan,,,,,,,,,,
+China,Zhuhai,,,,,,,,,,
+France,Amboise,,,,,,,,,,
+France,Chateaubourg,,,,,,,,,,
+France,Lyon,,2015,19.9%,20.3%,14.5%,17.9%,17.1%,18.4%,19.2%,22.3%
+France,Lyon,,2016,17.1%,17.5%,12.4%,15.4%,14.7%,15.8%,16.5%,20.0%
+France,Lyon,,2017,21.0%,21.5%,15.3%,18.9%,18.0%,19.4%,20.3%,23.2%
+France,Lyon,,2018,16.0%,16.3%,11.6%,14.4%,13.7%,14.8%,15.4%,19.1%
+France,Lyon,,2019,15.6%,15.6%,12.1%,13.9%,14.4%,16.0%,15.6%,20.2%
+France,Paris,,2015,17.7%,18.1%,12.9%,15.9%,15.2%,16.4%,17.1%,20.5%
+France,Paris,,2016,17.8%,18.2%,13.0%,16.0%,15.3%,16.5%,17.2%,20.6%
+France,Paris,,2017,21.6%,22.1%,15.7%,19.4%,18.6%,20.0%,20.9%,23.7%
+France,Paris,,2018,21.4%,22.0%,15.6%,19.3%,18.5%,19.9%,20.7%,23.6%
+France,Paris,,2019,21.8%,22.9%,16.4%,21.1%,18.7%,19.0%,19.8%,24.4%
+Germany,Berlin,,2015,14.2%,14.6%,10.4%,12.8%,12.3%,13.2%,13.8%,17.7%
+Germany,Berlin,,2016,11.7%,12.0%,8.5%,10.5%,10.0%,10.8%,11.3%,15.6%
+Germany,Berlin,,2017,14.5%,14.8%,10.6%,13.1%,12.5%,13.4%,14.0%,17.9%
+Germany,Berlin,,2018,16.4%,16.8%,12.0%,14.8%,14.1%,15.2%,15.9%,19.5%
+Germany,Berlin,,2019,17.1%,18.4%,12.4%,15.0%,15.5%,16.0%,16.7%,21.3%
+Germany,Freiburg,,,,,,,,,,
+Germany,Illertissen,,,,,,,,,,
+Germany,Karlsruhe,,2015,18.4%,18.8%,13.4%,16.6%,15.8%,17.0%,17.8%,17.1%
+Germany,Karlsruhe,,2016,21.6%,22.1%,15.7%,19.4%,18.6%,20.0%,20.9%,19.7%
+Germany,Karlsruhe,,2017,20.8%,21.3%,15.2%,18.8%,17.9%,19.3%,20.1%,19.1%
+Germany,Karlsruhe,,2018,16.7%,17.1%,12.2%,15.0%,14.4%,15.4%,16.1%,15.7%
+Germany,Karlsruhe,,2019,17.3%,17.5%,12.5%,15.1%,14.6%,16.9%,17.2%,15.2%
+Germany,Munich,,2015,16.7%,17.1%,12.2%,15.0%,14.4%,15.4%,16.1%,15.7%
+Germany,Munich,,2016,20.3%,20.8%,14.8%,18.3%,17.5%,18.8%,19.7%,18.7%
+Germany,Munich,,2017,16.7%,17.1%,12.2%,15.0%,14.4%,15.4%,16.1%,15.7%
+Germany,Munich,,2018,20.5%,21.0%,14.9%,18.4%,17.6%,19.0%,19.8%,18.8%
+Germany,Munich,,2019,19.7%,23.0%,15.8%,18.2%,17.1%,18.9%,20.4%,20.3%
+India,Ahmedabad,,2015,14.0%,14.4%,10.2%,12.7%,12.1%,13.0%,13.6%,13.5%
+India,Ahmedabad,,2016,14.0%,14.4%,10.2%,12.7%,12.1%,13.0%,13.6%,13.5%
+India,Ahmedabad,,2017,16.1%,16.5%,11.8%,14.5%,13.9%,14.9%,15.6%,15.2%
+India,Ahmedabad,,2018,18.8%,19.3%,13.7%,16.9%,16.2%,17.4%,18.2%,17.4%
+India,Ahmedabad,,2019,20.2%,20.9%,13.8%,17.7%,16.7%,17.5%,19.0%,16.9%
+India,Aurangabad,,,,,,,,,,
+India,Bangalore,,2015,19.2%,19.6%,14.0%,17.3%,16.5%,17.7%,18.5%,15.7%
+India,Bangalore,,2016,20.4%,20.9%,14.9%,18.4%,17.5%,18.9%,19.7%,16.7%
+India,Bangalore,,2017,20.1%,20.6%,14.7%,18.2%,17.3%,18.6%,19.5%,16.5%
+India,Bangalore,,2018,18.7%,19.1%,13.6%,16.8%,16.1%,17.3%,18.1%,15.3%
+India,Bangalore,,2019,20.3%,19.9%,13.5%,17.3%,16.8%,18.3%,19.5%,15.4%
+India,Chennai,,2015,20.3%,20.8%,14.8%,18.3%,17.4%,18.8%,19.6%,16.6%
+India,Chennai,,2016,16.7%,17.1%,12.2%,15.1%,14.4%,15.5%,16.2%,13.7%
+India,Chennai,,2017,16.0%,16.4%,11.7%,14.4%,13.8%,14.8%,15.5%,13.1%
+India,Chennai,,2018,18.2%,18.6%,13.3%,16.4%,15.6%,16.8%,17.6%,14.9%
+India,Chennai,,2019,19.9%,18.7%,14.2%,15.8%,15.8%,16.6%,18.1%,14.4%
+India,Delhi,,2015,19.9%,20.4%,14.5%,17.9%,17.1%,18.4%,19.2%,16.3%
+India,Delhi,,2016,20.6%,21.1%,15.0%,18.6%,17.7%,19.1%,19.9%,16.9%
+India,Delhi,,2017,18.9%,19.4%,13.8%,17.1%,16.3%,17.5%,18.3%,15.5%
+India,Delhi,,2018,15.9%,16.3%,11.6%,14.3%,13.7%,14.7%,15.3%,13.0%
+India,Delhi,,2019,17.1%,17.8%,12.7%,14.7%,14.9%,14.4%,14.7%,12.5%
+India,Futura,,,,,,,,,,
+India,Goa,,2015,19.0%,19.5%,13.9%,17.2%,16.4%,17.6%,18.4%,15.6%
+India,Goa,,2016,18.5%,19.0%,13.5%,16.7%,16.0%,17.2%,17.9%,15.2%
+India,Goa,,2017,18.1%,18.5%,13.2%,16.3%,15.5%,16.7%,17.5%,14.8%
+India,Goa,,2018,17.7%,18.1%,12.9%,16.0%,15.2%,16.4%,17.1%,14.5%
+India,Goa,,2019,19.1%,18.9%,13.0%,16.1%,15.5%,16.9%,18.8%,14.3%
+India,Haridwar,,,,,,,,,,
+India,Hyderabad,,2015,17.2%,17.6%,12.6%,15.5%,14.8%,15.9%,16.6%,14.1%
+India,Hyderabad,,2016,19.4%,19.9%,14.2%,17.5%,16.7%,18.0%,18.8%,15.9%
+India,Hyderabad,,2017,18.1%,18.5%,13.2%,16.3%,15.5%,16.7%,17.5%,14.8%
+India,Hyderabad,,2018,20.4%,20.9%,14.9%,18.4%,17.5%,18.9%,19.7%,16.7%
+India,Hyderabad,,2019,21.7%,23.0%,15.3%,19.3%,18.7%,20.0%,20.2%,16.2%
+India,Kolkata,,2015,17.0%,17.4%,12.4%,15.3%,14.6%,15.7%,16.4%,13.9%
+India,Kolkata,,2016,16.4%,16.8%,11.9%,14.7%,14.1%,15.1%,15.8%,13.4%
+India,Kolkata,,2017,19.6%,20.1%,14.3%,17.7%,16.9%,18.2%,19.0%,16.1%
+India,Kolkata,,2018,19.9%,20.4%,14.5%,17.9%,17.1%,18.4%,19.2%,16.3%
+India,Kolkata,,2019,18.9%,20.3%,15.6%,19.7%,18.7%,17.7%,18.7%,17.0%
+India,Lucknow ,,2015,16.8%,17.3%,12.3%,15.2%,14.5%,15.6%,16.3%,13.8%
+India,Lucknow ,,2016,19.8%,20.3%,14.4%,17.8%,17.0%,18.3%,19.1%,16.2%
+India,Lucknow ,,2017,20.4%,20.9%,14.9%,18.4%,17.5%,18.9%,19.7%,16.7%
+India,Lucknow ,,2018,18.8%,19.3%,13.7%,16.9%,16.2%,17.4%,18.2%,15.4%
+India,Lucknow ,,2019,19.9%,20.3%,13.5%,17.3%,17.1%,18.6%,17.6%,14.9%
+India,Mumbai,,2015,15.4%,15.8%,11.2%,13.9%,13.2%,14.2%,14.9%,12.6%
+India,Mumbai,,2016,15.3%,15.6%,11.1%,13.8%,13.1%,14.1%,14.8%,12.5%
+India,Mumbai,,2017,18.3%,18.8%,13.4%,16.5%,15.8%,17.0%,17.7%,15.0%
+India,Mumbai,,2018,16.6%,17.0%,12.1%,15.0%,14.3%,15.4%,16.1%,13.6%
+India,Mumbai,,2019,17.7%,17.6%,12.2%,15.2%,15.4%,15.5%,15.4%,13.7%
+India,New Delhi,Delhi,,,,,,,,,
+India,Platina,,,,,,,,,,
+India,Secunderabad,,,,,,,,,,
+India,Sholinganallur,,,,,,,,,,
+India,Thane,,2015,15.4%,15.8%,11.2%,13.9%,13.2%,14.2%,14.9%,12.6%
+India,Thane,,2016,18.1%,18.5%,13.2%,16.3%,15.5%,16.7%,17.5%,14.8%
+India,Thane,,2017,18.2%,18.6%,13.3%,16.4%,15.6%,16.8%,17.6%,14.9%
+India,Thane,,2018,16.1%,16.5%,11.8%,14.5%,13.9%,14.9%,15.6%,13.2%
+India,Thane,,2019,16.5%,16.0%,11.9%,14.2%,13.6%,14.7%,17.0%,14.4%
+India,Verna,,,,,,,,,,
+India,Vizag,,2015,19.3%,19.8%,14.1%,17.4%,16.6%,17.9%,18.6%,15.8%
+India,Vizag,,2016,20.7%,21.3%,15.1%,18.7%,17.9%,19.2%,20.1%,17.0%
+India,Vizag,,2017,20.0%,20.5%,14.6%,18.0%,17.2%,18.5%,19.4%,16.4%
+India,Vizag,,2018,20.3%,20.8%,14.8%,18.3%,17.4%,18.8%,19.6%,16.6%
+India,Vizag,,2019,22.2%,22.8%,15.1%,17.8%,17.5%,18.9%,20.7%,18.2%
+Italy,Aprilia,,,,,,,,,,
+Italy,Ascoli,,,,,,,,,,
+Italy,Catania,,,,,,,,,,
+Italy,Liscate,,,,,,,,,,
+Italy,Milan,,2015,23.3%,23.9%,17.0%,21.0%,20.1%,21.6%,22.6%,19.1%
+Italy,Milan,,2016,26.5%,27.1%,19.3%,23.9%,22.8%,24.5%,25.6%,21.7%
+Italy,Milan,,2017,24.0%,24.6%,17.5%,21.7%,20.7%,22.3%,23.3%,19.7%
+Italy,Milan,,2018,25.8%,26.4%,18.8%,23.2%,22.2%,23.9%,24.9%,21.1%
+Italy,Milan,,2019,26.8%,28.1%,19.4%,24.3%,22.7%,24.7%,26.6%,21.3%
+Italy,Modena,,,,,,,,,,
+Italy,Naples,,2015,21.0%,21.5%,15.3%,18.9%,18.1%,19.5%,20.3%,17.2%
+Italy,Naples,,2016,23.7%,24.3%,17.3%,21.4%,20.4%,21.9%,22.9%,19.4%
+Italy,Naples,,2017,21.5%,22.0%,15.7%,19.4%,18.5%,19.9%,20.8%,17.6%
+Italy,Naples,,2018,25.9%,26.5%,18.9%,23.3%,22.3%,24.0%,25.0%,21.2%
+Italy,Naples,,2019,27.5%,27.5%,19.2%,23.5%,21.4%,25.8%,25.1%,21.4%
+Italy,Rome,,2015,22.2%,22.8%,16.2%,20.0%,19.1%,20.6%,21.5%,18.2%
+Italy,Rome,,2016,26.5%,27.1%,19.3%,23.9%,22.8%,24.5%,25.6%,21.7%
+Italy,Rome,,2017,21.4%,21.9%,15.6%,19.3%,18.4%,19.8%,20.7%,17.5%
+Italy,Rome,,2018,26.5%,27.1%,19.3%,23.9%,22.8%,24.5%,25.6%,21.7%
+Italy,Rome,,2019,25.7%,27.6%,19.1%,22.8%,24.0%,24.2%,27.6%,23.6%
+Japan,Akita,,,,,,,,,,
+Japan,Aomori,,,,,,,,,,
+Japan,Asahikawa,,,,,,,,,,
+Japan,Atsugi,,,,,,,,,,
+Japan,Bunkyo,,,,,,,,,,
+Japan,Chiba,,,,,,,,,,
+Japan,Fuchu,,,,,,,,,,
+Japan,Fukui,,,,,,,,,,
+Japan,Fukuoka,,,,,,,,,,
+Japan,Fukushima,,,,,,,,,,
+Japan,Fukuyama,,,,,,,,,,
+Japan,Funabashi,,,,,,,,,,
+Japan,Gifu,,,,,,,,,,
+Japan,Hachinohe,,,,,,,,,,
+Japan,Hakodate,,,,,,,,,,
+Japan,Hamamatsu,,,,,,,,,,
+Japan,Higashi,,,,,,,,,,
+Japan,Himeji,,,,,,,,,,
+Japan,Hiroshima,,,,,,,,,,
+Japan,Iwaki,,,,,,,,,,
+Japan,Izumo,,,,,,,,,,
+Japan,Kagoshima,,,,,,,,,,
+Japan,Kanazawa,,,,,,,,,,
+Japan,Kitakyusyu,,,,,,,,,,
+Japan,Kitami,,,,,,,,,,
+Japan,Kobe,,,,,,,,,,
+Japan,Kochi,,,,,,,,,,
+Japan,Kofu,,,,,,,,,,
+Japan,Komaki,,,,,,,,,,
+Japan,Koriyama,,,,,,,,,,
+Japan,Kumamoto,,,,,,,,,,
+Japan,Kurume,,,,,,,,,,
+Japan,Kushiro,,,,,,,,,,
+Japan,Kyoto,,2015,19.6%,20.1%,14.3%,17.7%,16.9%,18.2%,19.0%,21.6%
+Japan,Kyoto,,2016,18.4%,18.8%,13.4%,16.6%,15.8%,17.0%,17.8%,20.6%
+Japan,Kyoto,,2017,16.4%,16.8%,12.0%,14.8%,14.1%,15.2%,15.9%,19.0%
+Japan,Kyoto,,2018,20.8%,21.3%,15.2%,18.8%,17.9%,19.3%,20.1%,22.6%
+Japan,Kyoto,,2019,22.0%,21.4%,16.5%,18.1%,17.6%,20.0%,19.8%,22.1%
+Japan,Matsumoto,,,,,,,,,,
+Japan,Matsuyama,,,,,,,,,,
+Japan,Meguro,,,,,,,,,,
+Japan,Minoo,,,,,,,,,,
+Japan,Mishima,,,,,,,,,,
+Japan,Mito,,,,,,,,,,
+Japan,Miyazaki,,,,,,,,,,
+Japan,Morioka,,,,,,,,,,
+Japan,Nagano,,,,,,,,,,
+Japan,Nagaoka,,,,,,,,,,
+Japan,Nagasaki,,,,,,,,,,
+Japan,Nagoya,,,,,,,,,,
+Japan,Naha,,,,,,,,,,
+Japan,Nakano,,,,,,,,,,
+Japan,Nara,,,,,,,,,,
+Japan,Niigata,,,,,,,,,,
+Japan,Nishiharu,,,,,,,,,,
+Japan,Numazu,,,,,,,,,,
+Japan,Obihiro,,,,,,,,,,
+Japan,Oita,,,,,,,,,,
+Japan,Okayama,,,,,,,,,,
+Japan,Okazaki,,,,,,,,,,
+Japan,Osaka,,2015,18.3%,18.7%,13.3%,16.5%,15.7%,16.9%,17.7%,20.5%
+Japan,Osaka,,2016,19.6%,20.1%,14.3%,17.7%,16.9%,18.2%,19.0%,21.6%
+Japan,Osaka,,2017,16.4%,16.8%,12.0%,14.8%,14.1%,15.2%,15.9%,19.0%
+Japan,Osaka,,2018,20.8%,21.3%,15.2%,18.8%,17.9%,19.3%,20.1%,22.6%
+Japan,Osaka,,2019,19.9%,22.9%,15.9%,19.0%,18.0%,18.8%,20.4%,23.2%
+Japan,Ritto,,,,,,,,,,
+Japan,Saga,,,,,,,,,,
+Japan,Saitama,,,,,,,,,,
+Japan,Sakai,,,,,,,,,,
+Japan,Sakata,,,,,,,,,,
+Japan,Sapporo,,,,,,,,,,
+Japan,Sasebo,,,,,,,,,,
+Japan,Sendai,,,,,,,,,,
+Japan,Shizuoka,,,,,,,,,,
+Japan,Takamatsu,,,,,,,,,,
+Japan,Takasaki,,,,,,,,,,
+Japan,Tokushima,,,,,,,,,,
+Japan,Tokyo,,2015,18.6%,19.1%,13.6%,16.8%,16.0%,17.3%,18.0%,20.8%
+Japan,Tokyo,,2016,20.6%,21.1%,15.0%,18.6%,17.7%,19.1%,19.9%,22.4%
+Japan,Tokyo,,2017,18.6%,19.1%,13.6%,16.8%,16.0%,17.3%,18.0%,20.8%
+Japan,Tokyo,,2018,16.0%,16.3%,11.6%,14.4%,13.7%,14.8%,15.4%,18.6%
+Japan,Tokyo,,2019,16.4%,15.6%,12.2%,13.9%,14.5%,16.2%,16.0%,20.2%
+Japan,Toyama,,,,,,,,,,
+Japan,Tsu,,,,,,,,,,
+Japan,Tsukuba,,,,,,,,,,
+Japan,Utsunomiya,,,,,,,,,,
+Japan,Wakayama,,,,,,,,,,
+Japan,Yamagata,,,,,,,,,,
+Japan,Yamaguchi,,,,,,,,,,
+Japan,Yokohama,Tokyo,,,,,,,,,
+Japan,Yonago,,,,,,,,,,
+"Korea, Republic of",Bu-San,,,,,,,,,,
+"Korea, Republic of",Dae-Gu,,,,,,,,,,
+"Korea, Republic of",Dae-Jeon,,,,,,,,,,
+"Korea, Republic of",Dan-Jeon,,,,,,,,,,
+"Korea, Republic of",Gwang-Ju,,,,,,,,,,
+"Korea, Republic of",Ka,,,,,,,,,,
+"Korea, Republic of",Ka-San,,,,,,,,,,
+"Korea, Republic of",Kyung,,,,,,,,,,
+"Korea, Republic of",Pu-San,,,,,,,,,,
+"Korea, Republic of",Seocho,Seoul,,,,,,,,,
+"Korea, Republic of",Seoul,,2015,18.1%,18.5%,13.2%,16.3%,15.5%,16.7%,17.5%,14.8%
+"Korea, Republic of",Seoul,,2016,21.1%,21.6%,15.4%,19.0%,18.2%,19.5%,20.4%,17.3%
+"Korea, Republic of",Seoul,,2017,19.9%,20.4%,14.5%,17.9%,17.1%,18.4%,19.2%,16.3%
+"Korea, Republic of",Seoul,,2018,22.3%,22.9%,16.3%,20.1%,19.2%,20.7%,21.6%,18.3%
+"Korea, Republic of",Seoul,,2019,23.7%,24.5%,17.7%,21.5%,18.8%,20.0%,22.6%,20.0%
+"Korea, Republic of",Tae-Gu,,,,,,,,,,
+Mexico,Mexico City,,2015,19.3%,19.7%,14.0%,17.4%,16.6%,17.8%,18.6%,12.3%
+Mexico,Mexico City,,2016,17.3%,17.7%,12.6%,15.6%,14.9%,16.0%,16.7%,10.7%
+Mexico,Mexico City,,2017,20.4%,20.9%,14.8%,18.3%,17.5%,18.8%,19.7%,13.2%
+Mexico,Mexico City,,2018,20.6%,21.1%,15.0%,18.6%,17.7%,19.1%,19.9%,13.4%
+Mexico,Mexico City,,2019,22.1%,21.2%,16.2%,18.3%,18.6%,19.8%,21.1%,13.9%
+Mexico,Toluca,Mexico City,,,,,,,,,
+Mexico,Vallejo,Mexico City,,,,,,,,,
+Netherlands,Amsterdam,,2015,16.2%,16.6%,11.8%,14.6%,13.9%,15.0%,15.7%,13.3%
+Netherlands,Amsterdam,,2016,15.0%,15.4%,10.9%,13.5%,12.9%,13.9%,14.5%,12.3%
+Netherlands,Amsterdam,,2017,15.5%,15.9%,11.3%,14.0%,13.3%,14.3%,15.0%,12.7%
+Netherlands,Amsterdam,,2018,16.2%,16.6%,11.8%,14.6%,13.9%,15.0%,15.7%,13.3%
+Netherlands,Amsterdam,,2019,15.4%,16.7%,11.9%,14.4%,14.8%,16.2%,15.3%,12.8%
+Netherlands,Capelle Ad IJssel,Rotterdam,2015,16.9%,17.4%,12.4%,15.3%,14.6%,15.7%,16.4%,13.9%
+Netherlands,Capelle Ad IJssel,Rotterdam,2016,15.0%,15.4%,10.9%,13.5%,12.9%,13.9%,14.5%,12.3%
+Netherlands,Capelle Ad IJssel,Rotterdam,2017,15.0%,15.4%,10.9%,13.5%,12.9%,13.9%,14.5%,12.3%
+Netherlands,Capelle Ad IJssel,Rotterdam,2018,15.1%,15.5%,11.0%,13.6%,13.0%,14.0%,14.6%,12.4%
+Netherlands,Capelle Ad IJssel,Rotterdam,2019,16.6%,15.6%,11.4%,14.6%,14.2%,14.1%,14.2%,12.3%
+Russian Federation,Moscow,,2015,12.7%,13.0%,9.3%,11.5%,10.9%,11.8%,12.3%,10.4%
+Russian Federation,Moscow,,2016,8.8%,9.0%,6.4%,7.9%,7.6%,8.1%,8.5%,7.2%
+Russian Federation,Moscow,,2017,11.7%,12.0%,8.6%,10.6%,10.1%,10.9%,11.3%,9.6%
+Russian Federation,Moscow,,2018,7.7%,7.9%,5.6%,6.9%,6.6%,7.1%,7.4%,6.3%
+Russian Federation,Moscow,,2019,8.4%,8.5%,5.7%,7.4%,6.4%,7.5%,7.8%,6.0%
+Saudi Arabia,Al Hassa,,,,,,,,,,
+Saudi Arabia,Al Hofouf,,,,,,,,,,
+Saudi Arabia,Al Maddina,,,,,,,,,,
+Saudi Arabia,Dammam,,2015,9.8%,10.0%,7.1%,8.8%,8.4%,9.1%,9.5%,8.0%
+Saudi Arabia,Dammam,,2016,11.1%,11.4%,8.1%,10.0%,9.6%,10.3%,10.8%,9.1%
+Saudi Arabia,Dammam,,2017,9.5%,9.8%,7.0%,8.6%,8.2%,8.8%,9.2%,7.8%
+Saudi Arabia,Dammam,,2018,8.7%,8.9%,6.3%,7.8%,7.5%,8.0%,8.4%,7.1%
+Saudi Arabia,Dammam,,2019,9.5%,9.0%,6.9%,7.9%,7.6%,7.9%,8.8%,7.5%
+Saudi Arabia,Jeddah ,,2015,5.3%,5.4%,3.8%,4.8%,4.5%,4.9%,5.1%,4.3%
+Saudi Arabia,Jeddah ,,2016,10.3%,10.5%,7.5%,9.3%,8.8%,9.5%,9.9%,8.4%
+Saudi Arabia,Jeddah ,,2017,5.6%,5.8%,4.1%,5.1%,4.9%,5.2%,5.5%,4.6%
+Saudi Arabia,Jeddah ,,2018,7.0%,7.2%,5.1%,6.3%,6.0%,6.5%,6.8%,5.7%
+Saudi Arabia,Jeddah ,,2019,7.6%,7.5%,5.2%,6.1%,6.1%,6.7%,7.3%,6.0%
+Saudi Arabia,Khamis Mushait,,,,,,,,,,
+Saudi Arabia,King Abdullah Economic City,,,,,,,,,,
+Saudi Arabia,Makkah,,,,,,,,,,
+Saudi Arabia,Qassim,,,,,,,,,,
+Saudi Arabia,Riyadh,,2015,8.3%,8.5%,6.1%,7.5%,7.2%,7.7%,8.0%,6.8%
+Saudi Arabia,Riyadh,,2016,8.3%,8.5%,6.1%,7.5%,7.2%,7.7%,8.0%,6.8%
+Saudi Arabia,Riyadh,,2017,6.5%,6.7%,4.7%,5.9%,5.6%,6.0%,6.3%,5.3%
+Saudi Arabia,Riyadh,,2018,6.0%,6.2%,4.4%,5.4%,5.2%,5.6%,5.8%,4.9%
+Saudi Arabia,Riyadh,,2019,6.2%,6.5%,4.5%,5.2%,5.3%,5.8%,5.6%,4.8%
+Singapore,Golden Agri,Singapore,,,,,,,,,
+Singapore,Mapletree,Singapore,,,,,,,,,
+Singapore,Singapore,,2015,24.4%,25.0%,17.8%,22.0%,21.0%,22.6%,23.6%,20.0%
+Singapore,Singapore,,2016,22.2%,22.7%,16.2%,20.0%,19.1%,20.5%,21.4%,18.2%
+Singapore,Singapore,,2017,24.5%,25.1%,17.9%,22.1%,21.1%,22.7%,23.7%,20.1%
+Singapore,Singapore,,2018,22.0%,22.6%,16.1%,19.9%,19.0%,20.4%,21.3%,18.1%
+Singapore,Singapore,,2019,22.6%,24.7%,16.2%,20.2%,18.2%,20.7%,21.1%,17.5%
+Singapore,Tuas,Singapore,,,,,,,,,
+South Africa,Bloemfontein,,,,,,,,,,
+South Africa,Cape Town,,2015,17.1%,17.6%,12.5%,15.4%,14.7%,15.9%,16.6%,14.0%
+South Africa,Cape Town,,2016,15.5%,15.9%,11.3%,14.0%,13.4%,14.4%,15.0%,12.7%
+South Africa,Cape Town,,2017,17.7%,18.2%,12.9%,16.0%,15.3%,16.4%,17.2%,14.5%
+South Africa,Cape Town,,2018,20.3%,20.8%,14.8%,18.3%,17.5%,18.8%,19.6%,16.6%
+South Africa,Cape Town,,2019,20.9%,20.4%,16.2%,18.1%,17.6%,19.4%,19.9%,17.8%
+South Africa,Durban,,2015,14.9%,15.3%,10.9%,13.5%,12.9%,13.8%,14.4%,12.2%
+South Africa,Durban,,2016,15.1%,15.4%,11.0%,13.6%,13.0%,13.9%,14.6%,12.3%
+South Africa,Durban,,2017,19.1%,19.6%,13.9%,17.2%,16.4%,17.7%,18.5%,15.6%
+South Africa,Durban,,2018,18.8%,19.3%,13.7%,17.0%,16.2%,17.5%,18.2%,15.4%
+South Africa,Durban,,2019,19.2%,18.6%,14.3%,17.7%,15.7%,19.2%,17.6%,15.6%
+South Africa,Kwazulu Natal,Durban,,,,,,,,,
+South Africa,Port Elizabeth,,2015,15.9%,16.3%,11.6%,14.3%,13.7%,14.7%,15.4%,13.0%
+South Africa,Port Elizabeth,,2016,18.0%,18.4%,13.1%,16.2%,15.5%,16.7%,17.4%,14.7%
+South Africa,Port Elizabeth,,2017,17.4%,17.8%,12.7%,15.7%,15.0%,16.1%,16.8%,14.2%
+South Africa,Port Elizabeth,,2018,20.5%,21.1%,15.0%,18.5%,17.7%,19.0%,19.9%,16.8%
+South Africa,Port Elizabeth,,2019,21.0%,23.1%,14.5%,18.4%,18.4%,19.1%,19.1%,18.4%
+South Africa,Pretoria,,2015,20.2%,20.7%,14.7%,18.2%,17.4%,18.7%,19.5%,16.5%
+South Africa,Pretoria,,2016,19.9%,20.4%,14.5%,18.0%,17.2%,18.5%,19.3%,16.3%
+South Africa,Pretoria,,2017,14.8%,15.2%,10.8%,13.4%,12.8%,13.7%,14.3%,12.1%
+South Africa,Pretoria,,2018,19.2%,19.7%,14.0%,17.3%,16.5%,17.8%,18.6%,15.7%
+South Africa,Pretoria,,2019,18.9%,20.5%,15.1%,17.2%,15.9%,18.9%,19.6%,16.5%
+South Africa,Sandton,Johannesburg,2015,18.5%,18.9%,13.5%,16.7%,15.9%,17.1%,17.9%,15.1%
+South Africa,Sandton,Johannesburg,2016,19.0%,19.4%,13.8%,17.1%,16.3%,17.6%,18.3%,15.5%
+South Africa,Sandton,Johannesburg,2017,15.2%,15.6%,11.1%,13.7%,13.1%,14.1%,14.7%,12.4%
+South Africa,Sandton,Johannesburg,2018,18.4%,18.8%,13.4%,16.5%,15.8%,17.0%,17.8%,15.0%
+South Africa,Sandton,Johannesburg,2019,17.7%,18.9%,13.0%,16.7%,15.6%,18.6%,19.1%,16.4%
+Sweden,Malmo,,2015,16.7%,17.1%,12.2%,15.1%,14.4%,15.5%,16.2%,13.7%
+Sweden,Malmo,,2016,11.7%,12.0%,8.6%,10.6%,10.1%,10.9%,11.3%,9.6%
+Sweden,Malmo,,2017,15.9%,16.3%,11.6%,14.3%,13.7%,14.7%,15.4%,13.0%
+Sweden,Malmo,,2018,14.3%,14.6%,10.4%,12.9%,12.3%,13.2%,13.8%,11.7%
+Sweden,Malmo,,2019,14.9%,14.1%,11.2%,13.1%,12.4%,13.8%,13.6%,12.2%
+Sweden,Silverdal,Stockholm,2015,15.8%,16.1%,11.5%,14.2%,13.6%,14.6%,15.2%,12.9%
+Sweden,Silverdal,Stockholm,2016,16.1%,16.5%,11.8%,14.5%,13.9%,14.9%,15.6%,13.2%
+Sweden,Silverdal,Stockholm,2017,12.7%,13.0%,9.3%,11.5%,10.9%,11.8%,12.3%,10.4%
+Sweden,Silverdal,Stockholm,2018,12.5%,12.8%,9.1%,11.2%,10.7%,11.5%,12.1%,10.2%
+Sweden,Silverdal,Stockholm,2019,12.8%,12.2%,9.9%,11.7%,10.8%,11.1%,13.0%,9.8%
+Sweden,Strangnas,,,,,,,,,,
+Turkey,Istanbul,,2015,10.8%,11.1%,7.9%,9.7%,9.3%,10.0%,10.4%,8.8%
+Turkey,Istanbul,,2016,8.8%,9.1%,6.4%,8.0%,7.6%,8.2%,8.5%,7.2%
+Turkey,Istanbul,,2017,12.7%,13.1%,9.3%,11.5%,11.0%,11.8%,12.3%,10.4%
+Turkey,Istanbul,,2018,9.0%,9.2%,6.5%,8.1%,7.7%,8.3%,8.7%,7.3%
+Turkey,Istanbul,,2019,8.7%,9.3%,6.6%,8.2%,8.3%,8.2%,8.8%,7.1%
+United Arab Emirates,Ahmed Khalil,,,,,,,,,,
+United Arab Emirates,Dubai,,2015,19.1%,19.6%,14.0%,17.2%,16.5%,17.7%,18.5%,15.7%
+United Arab Emirates,Dubai,,2016,19.9%,20.3%,14.5%,17.9%,17.1%,18.4%,19.2%,16.3%
+United Arab Emirates,Dubai,,2017,15.5%,15.8%,11.3%,13.9%,13.3%,14.3%,15.0%,12.7%
+United Arab Emirates,Dubai,,2018,18.4%,18.8%,13.4%,16.6%,15.8%,17.0%,17.8%,15.1%
+United Arab Emirates,Dubai,,2019,18.5%,20.5%,14.1%,17.0%,15.9%,16.4%,17.4%,16.1%
+United Kingdom,Cambridge,,2015,18.9%,19.3%,13.8%,17.0%,16.2%,17.5%,18.2%,20.0%
+United Kingdom,Cambridge,,2016,20.3%,20.8%,14.8%,18.3%,17.5%,18.8%,19.7%,21.2%
+United Kingdom,Cambridge,,2017,15.2%,15.6%,11.1%,13.7%,13.1%,14.1%,14.7%,17.0%
+United Kingdom,Cambridge,,2018,16.5%,17.0%,12.1%,14.9%,14.2%,15.3%,16.0%,18.1%
+United Kingdom,Cambridge,,2019,17.7%,18.4%,12.0%,14.2%,15.3%,14.7%,17.4%,18.4%
+United Kingdom,Charing Cross,London,,,,,,,,,
+United Kingdom,Croydon,London,,,,,,,,,
+United Kingdom,Havant,,,,,,,,,,
+United Kingdom,Hurley,London,,,,,,,,,
+United Kingdom,Leamington Spa,,,,,,,,,,
+United Kingdom,London,,2015,20.6%,21.1%,15.0%,18.5%,17.7%,19.1%,19.9%,21.4%
+United Kingdom,London,,2016,20.0%,20.5%,14.6%,18.0%,17.2%,18.5%,19.3%,20.9%
+United Kingdom,London,,2017,20.4%,21.0%,14.9%,18.4%,17.6%,18.9%,19.8%,21.3%
+United Kingdom,London,,2018,18.7%,19.2%,13.7%,16.9%,16.1%,17.4%,18.1%,19.9%
+United Kingdom,London,,2019,19.4%,18.8%,14.3%,16.5%,15.4%,18.0%,18.6%,20.5%
+United Kingdom,Sandwich,,,,,,,,,,
+United Kingdom,Vanwall,London,,,,,,,,,
+United Kingdom,Victoria,London,,,,,,,,,
+United States,Albany,,,,,,,,,,
+United States,"Andover,MA",Boston,,,,,,,,,
+United States,Ann Arbor,,2015,20.6%,21.1%,15.0%,18.6%,17.7%,19.1%,19.9%,24.4%
+United States,Ann Arbor,,2016,20.4%,20.9%,14.9%,18.4%,17.5%,18.9%,19.7%,24.2%
+United States,Ann Arbor,,2017,18.5%,19.0%,13.5%,16.7%,16.0%,17.2%,17.9%,22.7%
+United States,Ann Arbor,,2018,20.7%,21.2%,15.1%,18.7%,17.8%,19.2%,20.1%,24.5%
+United States,Ann Arbor,,2019,20.6%,21.9%,15.4%,17.9%,19.0%,20.9%,20.8%,26.9%
+United States,Arbor Lakes,Minneapolis,,,,,,,,,
+United States,"Arrowwood,NY",,,,,,,,,,
+United States,Atlanta,,2015,22.0%,22.5%,16.0%,19.8%,18.9%,20.3%,21.2%,25.5%
+United States,Atlanta,,2016,20.2%,20.7%,14.8%,18.3%,17.4%,18.8%,19.6%,24.1%
+United States,Atlanta,,2017,19.5%,20.0%,14.2%,17.6%,16.8%,18.1%,18.9%,23.5%
+United States,Atlanta,,2018,20.1%,20.6%,14.7%,18.1%,17.3%,18.6%,19.5%,24.0%
+United States,Atlanta,,2019,19.9%,20.5%,14.5%,18.3%,17.1%,18.2%,20.7%,24.4%
+United States,Austin,,2015,16.6%,17.0%,12.1%,15.0%,14.3%,15.4%,16.0%,21.1%
+United States,Austin,,2016,17.4%,17.9%,12.7%,15.7%,15.0%,16.2%,16.9%,21.8%
+United States,Austin,,2017,18.2%,18.6%,13.3%,16.4%,15.6%,16.8%,17.6%,22.4%
+United States,Austin,,2018,20.9%,21.4%,15.2%,18.8%,18.0%,19.3%,20.2%,24.6%
+United States,Austin,,2019,22.6%,22.5%,15.4%,18.9%,19.6%,18.7%,21.2%,25.9%
+United States,Barceloneta,San Juan,,,,,,,,,
+United States,Beachwood,Cleveland ,,,,,,,,,
+United States,Bedminster,New York,,,,,,,,,
+United States,Bentonville,Fayetteville,2015,19.3%,19.7%,14.1%,17.4%,16.6%,17.9%,18.6%,23.3%
+United States,Bentonville,Fayetteville,2016,17.2%,17.6%,12.5%,15.5%,14.8%,15.9%,16.6%,21.6%
+United States,Bentonville,Fayetteville,2017,18.9%,19.4%,13.8%,17.0%,16.3%,17.5%,18.3%,23.0%
+United States,Bentonville,Fayetteville,2018,19.0%,19.5%,13.9%,17.2%,16.4%,17.6%,18.4%,23.1%
+United States,Bentonville,Fayetteville,2019,19.9%,19.0%,14.7%,16.9%,16.9%,17.8%,19.8%,22.3%
+United States,Boston,,2015,18.2%,18.6%,13.3%,16.4%,15.6%,16.8%,17.6%,22.4%
+United States,Boston,,2016,22.2%,22.7%,16.2%,20.0%,19.1%,20.6%,21.5%,25.7%
+United States,Boston,,2017,21.5%,22.0%,15.7%,19.4%,18.5%,19.9%,20.8%,25.1%
+United States,Boston,,2018,19.4%,19.9%,14.1%,17.5%,16.7%,18.0%,18.8%,23.4%
+United States,Boston,,2019,20.7%,21.6%,13.8%,18.2%,16.5%,18.1%,19.8%,24.8%
+United States,Boulder,,2015,16.6%,17.0%,12.1%,15.0%,14.3%,15.4%,16.0%,21.1%
+United States,Boulder,,2016,16.1%,16.5%,11.7%,14.5%,13.9%,14.9%,15.6%,20.7%
+United States,Boulder,,2017,20.9%,21.4%,15.2%,18.8%,18.0%,19.3%,20.2%,24.6%
+United States,Boulder,,2018,20.4%,20.9%,14.9%,18.4%,17.5%,18.9%,19.7%,24.2%
+United States,Boulder,,2019,21.8%,21.7%,14.7%,17.9%,19.2%,20.6%,20.1%,24.1%
+United States,Bridgewater,Boston,,,,,,,,,
+United States,Bristol,,,,,,,,,,
+United States,Caguas,San Juan,,,,,,,,,
+United States,"Cambridge,MA",Boston,,,,,,,,,
+United States,Carlisle,,,,,,,,,,
+United States,Carolina,,,,,,,,,,
+United States,Cary,Raleigh,,,,,,,,,
+United States,Chapel hill,Raleigh,2015,19.4%,19.9%,14.1%,17.5%,16.7%,18.0%,18.8%,23.4%
+United States,Chapel hill,Raleigh,2016,19.5%,20.0%,14.2%,17.6%,16.8%,18.1%,18.9%,23.5%
+United States,Chapel hill,Raleigh,2017,16.5%,16.9%,12.0%,14.8%,14.2%,15.3%,15.9%,21.0%
+United States,Chapel hill,Raleigh,2018,20.7%,21.2%,15.1%,18.7%,17.8%,19.2%,20.1%,24.5%
+United States,Chapel hill,Raleigh,2019,21.3%,21.5%,14.6%,20.1%,17.7%,19.3%,19.8%,24.9%
+United States,Charles City,,,,,,,,,,
+United States,Chicago,,2015,16.1%,16.5%,11.7%,14.5%,13.9%,14.9%,15.6%,20.7%
+United States,Chicago,,2016,21.2%,21.7%,15.5%,19.1%,18.3%,19.7%,20.5%,24.9%
+United States,Chicago,,2017,17.6%,18.0%,12.8%,15.8%,15.1%,16.3%,17.0%,21.9%
+United States,Chicago,,2018,17.7%,18.1%,12.9%,15.9%,15.2%,16.4%,17.1%,22.0%
+United States,Chicago,,2019,18.6%,17.7%,14.1%,16.1%,15.5%,15.9%,17.6%,24.0%
+United States,Cincinnati,,2015,17.0%,17.4%,12.4%,15.3%,14.6%,15.7%,16.4%,21.4%
+United States,Cincinnati,,2016,21.8%,22.4%,15.9%,19.7%,18.8%,20.2%,21.1%,25.4%
+United States,Cincinnati,,2017,16.2%,16.6%,11.8%,14.6%,14.0%,15.0%,15.7%,20.8%
+United States,Cincinnati,,2018,20.7%,21.2%,15.1%,18.7%,17.8%,19.2%,20.1%,24.5%
+United States,Cincinnati,,2019,20.4%,22.7%,14.8%,19.1%,17.7%,19.3%,21.7%,25.4%
+United States,Clayton,San Francisco,,,,,,,,,
+United States,Cleveland,,2015,22.2%,22.7%,16.2%,20.0%,19.1%,20.6%,21.5%,25.7%
+United States,Cleveland,,2016,20.5%,21.0%,14.9%,18.5%,17.6%,19.0%,19.8%,24.3%
+United States,Cleveland,,2017,20.1%,20.6%,14.7%,18.1%,17.3%,18.6%,19.5%,24.0%
+United States,Cleveland,,2018,19.6%,20.1%,14.3%,17.7%,16.9%,18.2%,19.0%,23.6%
+United States,Cleveland,,2019,19.7%,20.4%,15.2%,18.8%,16.1%,18.3%,18.3%,23.7%
+United States,College Park,Washington DC,,,,,,,,,
+United States,Collegeville,Philadelphia,,,,,,,,,
+United States,Columbia,,2015,17.2%,17.6%,12.5%,15.5%,14.8%,15.9%,16.6%,21.6%
+United States,Columbia,,2016,20.9%,21.4%,15.2%,18.8%,18.0%,19.3%,20.2%,24.6%
+United States,Columbia,,2017,20.4%,20.9%,14.9%,18.4%,17.5%,18.9%,19.7%,24.2%
+United States,Columbia,,2018,20.1%,20.6%,14.7%,18.1%,17.3%,18.6%,19.5%,24.0%
+United States,Columbia,,2019,19.2%,21.7%,15.7%,18.9%,16.6%,19.0%,18.5%,24.1%
+United States,Columbus,,2015,17.4%,17.9%,12.7%,15.7%,15.0%,16.2%,16.9%,21.8%
+United States,Columbus,,2016,22.2%,22.7%,16.2%,20.0%,19.1%,20.6%,21.5%,25.7%
+United States,Columbus,,2017,21.7%,22.2%,15.8%,19.6%,18.7%,20.1%,21.0%,25.3%
+United States,Columbus,,2018,18.9%,19.4%,13.8%,17.0%,16.3%,17.5%,18.3%,23.0%
+United States,Columbus,,2019,19.4%,19.0%,14.0%,17.5%,15.6%,17.3%,19.2%,24.1%
+United States,Cos Cob,,,,,,,,,,
+United States,Cumberland,,,,,,,,,,
+United States,Dallas,,2015,17.0%,17.4%,12.4%,15.3%,14.6%,15.7%,16.4%,21.4%
+United States,Dallas,,2016,20.5%,21.0%,14.9%,18.5%,17.6%,19.0%,19.8%,24.3%
+United States,Dallas,,2017,19.4%,19.9%,14.1%,17.5%,16.7%,18.0%,18.8%,23.4%
+United States,Dallas,,2018,18.3%,18.7%,13.3%,16.5%,15.7%,16.9%,17.7%,22.5%
+United States,Dallas,,2019,20.0%,19.8%,13.8%,17.7%,16.9%,16.8%,17.8%,22.0%
+United States,Denver,,2015,17.9%,18.4%,13.1%,16.2%,15.4%,16.6%,17.3%,22.2%
+United States,Denver,,2016,19.0%,19.5%,13.9%,17.2%,16.4%,17.6%,18.4%,23.1%
+United States,Denver,,2017,16.2%,16.6%,11.8%,14.6%,14.0%,15.0%,15.7%,20.8%
+United States,Denver,,2018,19.0%,19.5%,13.9%,17.2%,16.4%,17.6%,18.4%,23.1%
+United States,Denver,,2019,20.1%,19.2%,13.4%,18.0%,17.5%,17.4%,19.6%,22.1%
+United States,Duncanville,Dallas,,,,,,,,,
+United States,Durham,Raleigh,,,,,,,,,
+United States,Eagle Grove,,,,,,,,,,
+United States,Exton,Philadelphia,,,,,,,,,
+United States,Foothill Ranch,Los Angeles,,,,,,,,,
+United States,Fort Worth,,2015,16.3%,16.7%,11.9%,14.7%,14.1%,15.1%,15.8%,20.9%
+United States,Fort Worth,,2016,16.3%,16.7%,11.9%,14.7%,14.1%,15.1%,15.8%,20.9%
+United States,Fort Worth,,2017,16.8%,17.2%,12.3%,15.2%,14.5%,15.6%,16.3%,21.3%
+United States,Fort Worth,,2018,18.4%,18.9%,13.4%,16.6%,15.9%,17.1%,17.8%,22.6%
+United States,Fort Worth,,2019,17.9%,18.4%,14.0%,18.1%,15.1%,18.3%,17.9%,24.2%
+United States,Franklin,Nashville,2015,21.3%,21.9%,15.6%,19.2%,18.4%,19.8%,20.6%,25.0%
+United States,Franklin,Nashville,2016,20.2%,20.7%,14.8%,18.3%,17.4%,18.8%,19.6%,24.1%
+United States,Franklin,Nashville,2017,21.0%,21.5%,15.3%,18.9%,18.1%,19.4%,20.3%,24.7%
+United States,Franklin,Nashville,2018,20.0%,20.5%,14.6%,18.0%,17.2%,18.5%,19.3%,23.9%
+United States,Franklin,Nashville,2019,20.1%,20.7%,14.5%,18.3%,18.6%,19.9%,18.4%,23.7%
+United States,Great Valley/Frazer,Buffalo,2015,20.2%,20.7%,14.8%,18.3%,17.4%,18.8%,19.6%,24.1%
+United States,Great Valley/Frazer,Buffalo,2016,17.0%,17.4%,12.4%,15.3%,14.6%,15.7%,16.4%,21.4%
+United States,Great Valley/Frazer,Buffalo,2017,18.5%,19.0%,13.5%,16.7%,16.0%,17.2%,17.9%,22.7%
+United States,Great Valley/Frazer,Buffalo,2018,19.6%,20.1%,14.3%,17.7%,16.9%,18.2%,19.0%,23.6%
+United States,Great Valley/Frazer,Buffalo,2019,20.0%,19.3%,15.2%,19.2%,18.3%,19.4%,20.1%,24.4%
+United States,Greenwood,,,,,,,,,,
+United States,Groton,Boston,,,,,,,,,
+United States,Guayama,,,,,,,,,,
+United States,Guaynabo ,San Juan,,,,,,,,,
+United States,Hannibal,,,,,,,,,,
+United States,Irvine,Los Angeles,,,,,,,,,
+United States,Kalamazoo,,,,,,,,,,
+United States,Kansas City,,2015,17.8%,18.2%,13.0%,16.1%,15.3%,16.5%,17.2%,22.1%
+United States,Kansas City,,2016,17.4%,17.9%,12.7%,15.7%,15.0%,16.2%,16.9%,21.8%
+United States,Kansas City,,2017,21.5%,22.0%,15.7%,19.4%,18.5%,19.9%,20.8%,25.1%
+United States,Kansas City,,2018,18.5%,19.0%,13.5%,16.7%,16.0%,17.2%,17.9%,22.7%
+United States,Kansas City,,2019,19.5%,20.4%,14.0%,17.6%,16.1%,18.6%,18.2%,23.9%
+United States,King of Prussia,Philadelphia,,,,,,,,,
+United States,La Jolla,San Diego,,,,,,,,,
+United States,Lake Forest,Los Angeles,,,,,,,,,
+United States,Laurinburg,,,,,,,,,,
+United States,Lee's Summit,Kansas City,,,,,,,,,
+United States,Lewisberry  ,,,,,,,,,,
+United States,Lincoln,,2015,18.2%,18.6%,13.3%,16.4%,15.6%,16.8%,17.6%,22.4%
+United States,Lincoln,,2016,19.8%,20.2%,14.4%,17.8%,17.0%,18.3%,19.1%,23.7%
+United States,Lincoln,,2017,21.3%,21.9%,15.6%,19.2%,18.4%,19.8%,20.6%,25.0%
+United States,Lincoln,,2018,17.9%,18.4%,13.1%,16.2%,15.4%,16.6%,17.3%,22.2%
+United States,Lincoln,,2019,18.2%,17.6%,13.8%,16.9%,14.9%,17.6%,18.3%,23.6%
+United States,Longmont,Boulder,,,,,,,,,
+United States,Los Angeles,,2015,22.0%,22.5%,16.0%,19.8%,18.9%,20.3%,21.2%,25.5%
+United States,Los Angeles,,2016,16.8%,17.2%,12.3%,15.2%,14.5%,15.6%,16.3%,21.3%
+United States,Los Angeles,,2017,17.4%,17.9%,12.7%,15.7%,15.0%,16.2%,16.9%,21.8%
+United States,Los Angeles,,2018,18.4%,18.9%,13.4%,16.6%,15.9%,17.1%,17.8%,22.6%
+United States,Los Angeles,,2019,19.9%,20.1%,14.1%,17.3%,16.1%,17.3%,17.1%,23.7%
+United States,Louisville,,2015,22.2%,22.7%,16.2%,20.0%,19.1%,20.6%,21.5%,25.7%
+United States,Louisville,,2016,17.3%,17.7%,12.6%,15.6%,14.9%,16.0%,16.8%,21.7%
+United States,Louisville,,2017,20.9%,21.4%,15.2%,18.8%,18.0%,19.3%,20.2%,24.6%
+United States,Louisville,,2018,17.8%,18.2%,13.0%,16.1%,15.3%,16.5%,17.2%,22.1%
+United States,Louisville,,2019,17.6%,19.1%,13.6%,17.1%,15.2%,18.0%,18.7%,23.2%
+United States,"Madison, NJ",New York,,,,,,,,,
+United States,Marietta,Atlanta,,,,,,,,,
+United States,McPherson,Wichita,2015,22.2%,22.7%,16.2%,20.0%,19.1%,20.6%,21.5%,25.7%
+United States,McPherson,Wichita,2016,20.5%,21.0%,14.9%,18.5%,17.6%,19.0%,19.8%,24.3%
+United States,McPherson,Wichita,2017,20.9%,21.4%,15.2%,18.8%,18.0%,19.3%,20.2%,24.6%
+United States,McPherson,Wichita,2018,20.1%,20.6%,14.7%,18.1%,17.3%,18.6%,19.5%,24.0%
+United States,McPherson,Wichita,2019,19.7%,22.5%,15.8%,17.4%,17.5%,20.4%,20.4%,25.7%
+United States,Memphis,,2015,19.0%,19.5%,13.9%,17.2%,16.4%,17.6%,18.4%,23.1%
+United States,Memphis,,2016,17.7%,18.1%,12.9%,15.9%,15.2%,16.4%,17.1%,22.0%
+United States,Memphis,,2017,16.1%,16.5%,11.7%,14.5%,13.9%,14.9%,15.6%,20.7%
+United States,Memphis,,2018,19.9%,20.4%,14.5%,17.9%,17.1%,18.4%,19.2%,23.8%
+United States,Memphis,,2019,19.0%,21.8%,15.3%,19.3%,16.8%,19.3%,18.3%,23.4%
+United States,Middleton,Madison,2015,20.2%,20.7%,14.8%,18.3%,17.4%,18.8%,19.6%,24.1%
+United States,Middleton,Madison,2016,16.5%,16.9%,12.0%,14.8%,14.2%,15.3%,15.9%,21.0%
+United States,Middleton,Madison,2017,19.4%,19.9%,14.1%,17.5%,16.7%,18.0%,18.8%,23.4%
+United States,Middleton,Madison,2018,22.0%,22.5%,16.0%,19.8%,18.9%,20.3%,21.2%,25.5%
+United States,Middleton,Madison,2019,21.6%,22.6%,17.0%,20.2%,18.7%,20.8%,21.3%,24.5%
+United States,Minneapolis,,2015,17.3%,17.7%,12.6%,15.6%,14.9%,16.0%,16.8%,21.7%
+United States,Minneapolis,,2016,21.6%,22.1%,15.8%,19.5%,18.6%,20.0%,20.9%,25.2%
+United States,Minneapolis,,2017,22.0%,22.5%,16.0%,19.8%,18.9%,20.3%,21.2%,25.5%
+United States,Minneapolis,,2018,20.4%,20.9%,14.9%,18.4%,17.5%,18.9%,19.7%,24.2%
+United States,Minneapolis,,2019,21.5%,20.7%,15.4%,18.5%,16.8%,19.1%,19.4%,25.8%
+United States,Morrisville,Raleigh,,,,,,,,,
+United States,New Haven,,2015,22.0%,22.5%,16.0%,19.8%,18.9%,20.3%,21.2%,25.5%
+United States,New Haven,,2016,21.5%,22.0%,15.7%,19.4%,18.5%,19.9%,20.8%,25.1%
+United States,New Haven,,2017,19.8%,20.2%,14.4%,17.8%,17.0%,18.3%,19.1%,23.7%
+United States,New Haven,,2018,21.3%,21.9%,15.6%,19.2%,18.4%,19.8%,20.6%,25.0%
+United States,New Haven,,2019,22.3%,23.6%,15.1%,19.8%,19.2%,20.6%,21.9%,26.3%
+United States,New York,,2015,19.6%,20.1%,14.3%,17.7%,16.9%,18.2%,19.0%,23.6%
+United States,New York,,2016,16.5%,16.9%,12.0%,14.8%,14.2%,15.3%,15.9%,21.0%
+United States,New York,,2017,19.9%,20.4%,14.5%,17.9%,17.1%,18.4%,19.2%,23.8%
+United States,New York,,2018,17.3%,17.7%,12.6%,15.6%,14.9%,16.0%,16.8%,21.7%
+United States,New York,,2019,16.9%,19.1%,12.7%,16.5%,15.8%,16.8%,17.5%,21.9%
+United States,Parsippany,New York,,,,,,,,,
+United States,Peapack,New York,,,,,,,,,
+United States,"Pearl River,NY",New York,,,,,,,,,
+United States,Philadelphia,,2015,20.7%,21.2%,15.1%,18.7%,17.8%,19.2%,20.1%,24.5%
+United States,Philadelphia,,2016,19.9%,20.4%,14.5%,17.9%,17.1%,18.4%,19.2%,23.8%
+United States,Philadelphia,,2017,22.2%,22.7%,16.2%,20.0%,19.1%,20.6%,21.5%,25.7%
+United States,Philadelphia,,2018,16.8%,17.2%,12.3%,15.2%,14.5%,15.6%,16.3%,21.3%
+United States,Philadelphia,,2019,16.0%,18.1%,13.5%,15.3%,14.9%,15.1%,17.1%,21.6%
+United States,Piscataway,New York,,,,,,,,,
+United States,Pleasant Prarie,Chicago,,,,,,,,,
+United States,Reno,,2015,16.2%,16.6%,11.8%,14.6%,14.0%,15.0%,15.7%,20.8%
+United States,Reno,,2016,17.3%,17.7%,12.6%,15.6%,14.9%,16.0%,16.8%,21.7%
+United States,Reno,,2017,19.6%,20.1%,14.3%,17.7%,16.9%,18.2%,19.0%,23.6%
+United States,Reno,,2018,18.2%,18.6%,13.3%,16.4%,15.6%,16.8%,17.6%,22.4%
+United States,Reno,,2019,18.6%,18.4%,14.3%,15.7%,15.4%,16.3%,18.4%,21.4%
+United States,Reston,Washington DC,,,,,,,,,
+United States,Richmond,,,,,,,,,,
+United States,Ridgeway,Columbia,,,,,,,,,
+United States,Rochester,,2015,21.6%,22.1%,15.8%,19.5%,18.6%,20.0%,20.9%,25.2%
+United States,Rochester,,2016,18.7%,19.1%,13.6%,16.8%,16.1%,17.3%,18.1%,22.8%
+United States,Rochester,,2017,20.0%,20.5%,14.6%,18.0%,17.2%,18.5%,19.3%,23.9%
+United States,Rochester,,2018,18.9%,19.4%,13.8%,17.0%,16.3%,17.5%,18.3%,23.0%
+United States,Rochester,,2019,18.8%,18.7%,14.3%,16.9%,15.6%,17.3%,18.6%,23.7%
+United States,Rocky Mount,,,,,,,,,,
+United States,Rouses Point,,,,,,,,,,
+United States,Salisbury,,,,,,,,,,
+United States,San Diego,,2015,20.1%,20.6%,14.7%,18.1%,17.3%,18.6%,19.5%,24.0%
+United States,San Diego,,2016,17.1%,17.5%,12.5%,15.4%,14.7%,15.8%,16.5%,21.5%
+United States,San Diego,,2017,18.8%,19.2%,13.7%,16.9%,16.2%,17.4%,18.2%,22.9%
+United States,San Diego,,2018,19.8%,20.2%,14.4%,17.8%,17.0%,18.3%,19.1%,23.7%
+United States,San Diego,,2019,20.0%,22.0%,13.9%,17.1%,18.6%,18.9%,19.2%,25.6%
+United States,San Francisco,,2015,17.0%,17.4%,12.4%,15.3%,14.6%,15.7%,16.4%,21.4%
+United States,San Francisco,,2016,20.2%,20.7%,14.8%,18.3%,17.4%,18.8%,19.6%,24.1%
+United States,San Francisco,,2017,17.1%,17.5%,12.5%,15.4%,14.7%,15.8%,16.5%,21.5%
+United States,San Francisco,,2018,19.6%,20.1%,14.3%,17.7%,16.9%,18.2%,19.0%,23.6%
+United States,San Francisco,,2019,18.9%,22.1%,15.2%,19.3%,17.0%,19.9%,19.8%,25.6%
+United States,San Jose,,2015,16.2%,16.6%,11.8%,14.6%,14.0%,15.0%,15.7%,20.8%
+United States,San Jose,,2016,17.1%,17.5%,12.5%,15.4%,14.7%,15.8%,16.5%,21.5%
+United States,San Jose,,2017,16.6%,17.0%,12.1%,15.0%,14.3%,15.4%,16.0%,21.1%
+United States,San Jose,,2018,18.8%,19.2%,13.7%,16.9%,16.2%,17.4%,18.2%,22.9%
+United States,San Jose,,2019,19.2%,20.4%,14.7%,16.7%,16.8%,18.1%,17.9%,23.6%
+United States,San Juan,,2015,16.6%,17.0%,12.1%,15.0%,14.3%,15.4%,16.0%,21.1%
+United States,San Juan,,2016,17.8%,18.2%,13.0%,16.1%,15.3%,16.5%,17.2%,22.1%
+United States,San Juan,,2017,21.0%,21.5%,15.3%,18.9%,18.1%,19.4%,20.3%,24.7%
+United States,San Juan,,2018,18.2%,18.6%,13.3%,16.4%,15.6%,16.8%,17.6%,22.4%
+United States,San Juan,,2019,17.6%,19.2%,13.4%,17.0%,15.4%,16.5%,17.8%,24.0%
+United States,Sanford,Orlando,2015,21.2%,21.7%,15.5%,19.1%,18.3%,19.7%,20.5%,24.9%
+United States,Sanford,Orlando,2016,20.0%,20.5%,14.6%,18.0%,17.2%,18.5%,19.3%,23.9%
+United States,Sanford,Orlando,2017,22.2%,22.7%,16.2%,20.0%,19.1%,20.6%,21.5%,25.7%
+United States,Sanford,Orlando,2018,21.5%,22.0%,15.7%,19.4%,18.5%,19.9%,20.8%,25.1%
+United States,Sanford,Orlando,2019,23.1%,21.5%,16.4%,20.5%,18.7%,21.9%,22.6%,26.5%
+United States,Silver Spring,,,,,,,,,,
+United States,South Bend,,,,,,,,,,
+United States,Saint Louis,,2015,21.2%,21.7%,15.5%,19.1%,18.3%,19.7%,20.5%,24.9%
+United States,Saint Louis,,2016,18.2%,18.6%,13.3%,16.4%,15.6%,16.8%,17.6%,22.4%
+United States,Saint Louis,,2017,17.4%,17.9%,12.7%,15.7%,15.0%,16.2%,16.9%,21.8%
+United States,Saint Louis,,2018,17.9%,18.4%,13.1%,16.2%,15.4%,16.6%,17.3%,22.2%
+United States,Saint Louis,,2019,18.9%,18.8%,14.0%,17.4%,15.9%,16.0%,16.6%,24.0%
+United States,Saint Petersburg,,2015,17.2%,17.6%,12.5%,15.5%,14.8%,15.9%,16.6%,21.6%
+United States,Saint Petersburg,,2016,18.4%,18.9%,13.4%,16.6%,15.9%,17.1%,17.8%,22.6%
+United States,Saint Petersburg,,2017,17.7%,18.1%,12.9%,15.9%,15.2%,16.4%,17.1%,22.0%
+United States,Saint Petersburg,,2018,22.1%,22.6%,16.1%,19.9%,19.0%,20.4%,21.4%,25.6%
+United States,Saint Petersburg,,2019,22.3%,21.7%,15.5%,21.2%,20.7%,22.3%,20.4%,25.4%
+United States,Terre Haute,,,,,,,,,,
+United States,Van Buren,,,,,,,,,,
+United States,Vega Baja,San Juan,,,,,,,,,
+United States,Vonore,Knoxville,2015,16.2%,16.6%,11.8%,14.6%,14.0%,15.0%,15.7%,20.8%
+United States,Vonore,Knoxville,2016,19.3%,19.7%,14.1%,17.4%,16.6%,17.9%,18.6%,23.3%
+United States,Vonore,Knoxville,2017,21.8%,22.4%,15.9%,19.7%,18.8%,20.2%,21.1%,25.4%
+United States,Vonore,Knoxville,2018,18.1%,18.5%,13.2%,16.3%,15.5%,16.7%,17.5%,22.3%
+United States,Vonore,Knoxville,2019,19.6%,19.3%,13.3%,16.7%,16.5%,16.2%,18.4%,21.5%
+United States,Washington DC,,2015,18.7%,19.1%,13.6%,16.8%,16.1%,17.3%,18.1%,22.8%
+United States,Washington DC,,2016,20.4%,20.9%,14.9%,18.4%,17.5%,18.9%,19.7%,24.2%
+United States,Washington DC,,2017,17.3%,17.7%,12.6%,15.6%,14.9%,16.0%,16.8%,21.7%
+United States,Washington DC,,2018,19.5%,20.0%,14.2%,17.6%,16.8%,18.1%,18.9%,23.5%
+United States,Washington DC,,2019,18.5%,19.1%,15.1%,16.9%,16.7%,18.2%,19.5%,25.7%
+United States,West Chester,Philadelphia,,,,,,,,,
+United States,West Trenton,New York,,,,,,,,,
+United States,Westlake ,Cleveland ,,,,,,,,,
+United States,White Hall,,,,,,,,,,
+United States,Willow Island,,,,,,,,,,
