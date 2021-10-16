@@ -1,5 +1,5 @@
 # team_pfizer
 
-## Help I don't know how to add our large dataset to our github so here is the dropbox link:
-https://www.dropbox.com/s/xx3ixqgtfe3epzf/Pfizer_Turnover_Prediction_Model_version1.csv?dl=0
+## Help I don't know how to add our large dataset to our github so here is the google link:
 
+https://drive.google.com/file/d/1W-S-Z6LWrTQEF0p-vpAM-l9vu29LyNFc/view?usp=sharing
